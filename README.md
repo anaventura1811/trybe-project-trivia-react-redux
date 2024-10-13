@@ -80,8 +80,6 @@ Nesse projeto, você será capaz de:
 
 Você pode acessar um **protótipo** completo da interface desejada para o projeto [**neste link**](https://www.figma.com/file/9XUqIwKEFBfbZn5t8MMZJY/Trivia---project?node-id=0%3A1).
 
-**Sinta-se livre para alterar a UI.** Só respeite as restrições de cada requisito - elas serão usados na correção.
-
 ---
 
 ## Data de entrega
