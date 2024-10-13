@@ -10,7 +10,7 @@ Projeto desenvolvido como requisito parcial para conclusão do módulo de Front-
 <div align="center">
 
   <img width="836" alt="Captura de Tela 2024-10-12 às 21 08 53" src="https://github.com/user-attachments/assets/795497ed-c689-47de-b46e-944eb6ae9e8e">
-  <img width="1056" alt="Captura de Tela 2024-10-12 às 21 09 09" src="https://github.com/user-attachments/assets/cbf122b6-5a75-422a-972f-9204eafd8694">
+  <img width="836" alt="Captura de Tela 2024-10-12 às 21 09 09" src="https://github.com/user-attachments/assets/cbf122b6-5a75-422a-972f-9204eafd8694">
   
 </div>
 
